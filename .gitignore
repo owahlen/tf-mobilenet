@@ -102,3 +102,4 @@ saved_model/
 logs/
 frozen_model/
 frozen_logs/
+trt/
